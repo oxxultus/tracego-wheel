@@ -8,7 +8,7 @@ AF_DCMotor motor_R(4);
 
 float Kp = 30.0;
 float Kd = 10.0;
-int baseSpeed = 200; //150
+int baseSpeed = 150; //150 , 200
 int lastError = 0;
 bool recovering = false;
 
